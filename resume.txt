@@ -1,0 +1,218 @@
+NIKOLAI KONDRASHOV
+
+Location: Espoo, Finland
+mailto:spbnick@gmail.com
+
+Self-taught software engineer with more than 15 years of professional
+experience. Unix philosophy devotee, with good understanding of open source
+principles.
+
+Interested in building and integrating system and network software,
+special-purpose and embedded systems. Enjoy working close to the HW.
+
+Always ready to expand the personal toolset to be able to use the best tool
+for the job at hand. Follow strict engineering discipline.
+
+
+TECHNICAL SKILLS
+
+Languages:      C, Lua, Bash, Perl, Python, ClearSilver, HTML, CSS,
+                JavaScript, XML, XSD, m4, SQL, C++, Java,
+                Assembly (ARM, 8086, Z80)
+
+Dev. tools:     Vim, autotools, make, git, Subversion, Perforce, Bugzilla,
+                Jira, Mantis
+
+Protocols:      CGI, DHCP, DNS, FastCGI, FTP, HTTP, IMAP, POP3, PPP, RTSP,
+                SMB/CIFS, SMTP, TCP/IP, USB HID
+
+Developing:     CLI, GUI, Kernel drivers (input), System tools,
+                Userspace drivers (input, graphics), WebUI
+
+Administering:  DHCP servers, Directory servers, DNS servers, E-mail servers
+                and gateways, Fax servers, Groupware servers, IP gateways
+                and firewalls, Print servers, Software PBX, Storage servers,
+                Web servers and proxies, Database servers
+
+Platforms:      Debian GNU/Linux, Android (system level), RHEL, Fedora Linux
+
+I worked with and dabbled in many other technologies, albeit to a lesser
+extent, or less recently than the ones listed above. It is generally not a
+problem for me to learn another skill/programming language/library/protocol
+to an advanced degree.
+
+
+PROFESSIONAL EXPERIENCE
+
+Software Engineer (remote)                  2014 - present
+Red Hat Software, identity management
+http://www.redhat.com/
+
+    Participate in sssd development, maintain FreeRADIUS package.
+
+    Did a few minor sssd improvements. Brought up continuous integration
+    process. Helped implement and contribute a customer-requested feature for
+    FreeRADIUS, made several package releases.
+
+
+Part-time Software Engineer, Founder        2008 - present
+DIGImend project (not-for-profit)
+http://digimend.github.io/
+https://github.com/DIGImend/
+
+    Improve Linux support for generic graphics tablets. Support users.
+
+    Added support for 16 graphics tablet models to the Linux kernel.
+    Contributed tablet-related fixes to xf86-input-evdev and
+    xf86-input-wacom drivers.
+
+    Designed and developed several supplementary tools, including: USB HID
+    report descriptor conversion library and tool, designed to allow
+    modification and authoring, USB HID protocol dumping utility (included
+    into usbutils), evdev protocol dumping utility.
+
+
+Sr. Quality Assurance Engineer (remote)     2012 - 2014
+Red Hat Software, identity management QE
+http://www.redhat.com/
+
+    Completed a couple of test suites covering some sssd features. Helped
+    improve code quality by introducing code reviews with Gerrit, coding and
+    commit guidelines. In my spare time, designed and developed a test
+    framework to replace the currently used one.
+
+
+Sr. System Software Engineer                2011 - 2012
+NVIDIA, Tegra graphics team
+http://www.nvidia.com/object/tegra.html
+
+    Participate in the development of the Tegra OpenGL ES driver and
+    development tools.
+
+    Added several features to the Tegra OpenGL ES driver, including support
+    for Tegra 4 geometry instancing. Added support for code coverage data
+    collection and reports for the Tegra Android BSP, both kernel and
+    userspace. Designed, implemented and maintained test suite control
+    library and tools written in Lua.
+
+
+System Software Engineer (mostly remote)    2006 - 2011
+OKTET Labs (embedded software engineering)
+http://www.oktetlabs.ru/
+
+    Home gateway project
+
+        Participate in the design, development and maintenance of a
+        centrally managed home gateway software platform spanning multiple
+        embedded MIPS platform variants. Help maintain a legacy version of
+        the platform.
+
+        Designed and developed a modularised Web user interface (WebUI)
+        engine along with pages and modules (over 150 pages, over 130
+        modules, translated to 6 languages, including Arabic), controlling
+        most of the gateway functionality through a central configuration
+        and resource management (CRM) application. Designed and developed
+        WebUI customization framework, aimed at the immediate customers
+        (triple play providers).
+
+        Designed and developed various CRM features, including: SMB and
+        WebDAV storage server management with user/group access control, USB
+        printer management, direct (TCP) and SMB printing management with a
+        simple spooler, "safe mode" support, HTTP server management.
+
+        Debugged and fixed numerous management, network and kernel software
+        issues. Submitted fixes to upstream open source projects. Designed
+        and developed several supplemental tools.
+
+    Test environment project
+    http://oktetlabs.ru/test_env.rhtml
+
+        Participate in the development and maintenance of an in-house test
+        framework.
+
+        Designed and developed a cURL library test agent RPC API with a
+        wrapper API for the home gateway WebUI testing.
+        Redesigned and reimplemented XML report generation tool to support
+        large files.
+
+    ATM gateway project
+    http://oktetlabs.ru/success/atm_gateway.rhtml
+
+        Help implement automatic test suite.
+        Coded a big part of the AAL5 test suite.
+
+
+System Administrator                        2002 - 2006
+Avtomatika-Sever / Avtomatika RUS (industrial automation)
+http://www.avtomatika.info / http://www.avtomatikarus.com
+
+    Maintain and improve company IT infrastructure. Tailor open source
+    software to meet company needs. Develop in-house scripts and small
+    software tools. Develop and maintain company website. Support users.
+
+    Improved overall stability, security and maintainability of company IT
+    services, minimized licensing costs, by replacing Windows-hosted server
+    software with more robust open source analogues.
+
+    Adapted HylaFAX fax server software to support certain voice
+    functions. Adapted several other open source software packages to
+    fit system infrastructure.
+
+
+Web Developer                               2001 - 2002
+Intero (web studio, now closed)
+http://web.archive.org/web/20030212214103/www.intero.ru/
+
+    Design, develop and maintain various Perl-based website back-ends and
+    front-ends. Research on and develop Java-based interactive website
+    back-end.
+
+    Completely rewritten a popular public guestbook service to improve
+    performance and maintainability. Participated in development and coding
+    of several medium-sized company websites.
+
+
+Software Engineer                           1999
+IMEXLINE / IMEXMED (medicine trade, now closed)
+
+    Participate in design, development and maintenance of a Windows-based
+    in-house point-of-sale system. Designed and developed a salesperson
+    interface to the system with cash register back-end interface.
+
+
+Software Intern                             1996 - 1998
+Information and Measurement Systems and Technologies department,
+Saint-Petersburg State Electrotechnical University
+(education, research and development)
+http://www.eltech.ru/kafedrs/iist/
+
+    Participate in design and development of several Windows-based ecology
+    simulation/forecasting/analytical software packages and supplemental
+    tools. Designed and developed various features, including: complex report
+    formatting and printing, trivial image tracing, mapping and other user
+    interface functions.
+
+
+SOFT SKILLS
+
+Enjoy working in a team. Good ability to listen and understand, explain
+complex concepts using simple terms. Quick learning, able to dive quickly
+into unfamiliar areas. Fluent English reading and comprehension, legible
+writing. Able to maintain both technical and general topic conversations in
+English.
+
+
+PERSONAL INTERESTS
+
+Constantly program and hack computers and related devices since late childhood
+- started with Basic, C and Assembler on DOS and ZX Spectrum.  Participate in
+open-source projects. Study electronics and embedded software development as a
+hobby. Enjoy rock and related music. A fan of Terry Pratchett.
+
+
+FURTHER REFERENCE
+
+http://github.com/spbnick
+https://plus.google.com/u/0/+NikolaiKondrashov
+http://www.linkedin.com/in/spbnick
+http://stackoverflow.com/users/1161045/spbnick
