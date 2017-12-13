@@ -48,11 +48,14 @@ Software Engineer (remote)                  2014 - present
 Red Hat Software, identity management
 http://www.redhat.com/
 
-    Participate in sssd development, maintain FreeRADIUS package.
+    Develop User Session Recording solution, participate in sssd development,
+    maintain FreeRADIUS package.
 
-    Did a few minor sssd improvements. Brought up continuous integration
-    process. Helped implement and contribute a customer-requested feature for
-    FreeRADIUS, made several package releases.
+    Developed several tools to support implementing a User Session Recording
+    solution for Enterprise environments. Did a few minor sssd improvements.
+    Brought up continuous integration process for SSSD project. Helped
+    implement and contribute a few customer-requested features for FreeRADIUS,
+    made several package releases.
 
 
 Part-time Software Engineer, Founder        2008 - present
