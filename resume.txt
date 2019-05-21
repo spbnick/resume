@@ -3,48 +3,42 @@ NIKOLAI KONDRASHOV
 Location: Espoo, Finland
 mailto:spbnick@gmail.com
 
-Self-taught software engineer with more than 15 years of professional
-experience. Unix philosophy devotee, with good understanding of open source
+Self-taught generalist software engineer with more than 20 years of
+professional experience, and inclination towards low-level software, firmware
+and hardware. Unix philosophy devotee, with good understanding of open source
 principles.
 
 Interested in building and integrating system and network software,
-special-purpose and embedded systems. Enjoy working close to the HW.
+special-purpose and embedded systems.
 
-Always ready to expand the personal toolset to be able to use the best tool
-for the job at hand. Follow strict engineering discipline.
+Always ready to expand his personal toolset to use the best tool for the job
+at hand. Follows strict engineering discipline.
 
 
 TECHNICAL SKILLS
 
-Languages:      C, Lua, Bash, Perl, Python, ClearSilver, HTML, CSS,
-                JavaScript, XML, XSD, m4, SQL, C++, Java,
+Languages:      C, Python, Lua, Bash, Perl, JavaScript, m4, SQL, C++, Java,
                 Assembly (ARM, 8086, Z80)
 
 Dev. tools:     Vim, autotools, make, git, Subversion, Perforce, Bugzilla,
                 Jira, Mantis
 
-Protocols:      CGI, DHCP, DNS, FastCGI, FTP, HTTP, IMAP, POP3, PPP, RTSP,
-                SMB/CIFS, SMTP, TCP/IP, USB HID
-
-Developing:     CLI, GUI, Kernel drivers (input), System tools,
-                Userspace drivers (input, graphics), WebUI
-
-Administering:  DHCP servers, Directory servers, DNS servers, E-mail servers
-                and gateways, Fax servers, Groupware servers, IP gateways
-                and firewalls, Print servers, Software PBX, Storage servers,
-                Web servers and proxies, Database servers
-
-Platforms:      Debian GNU/Linux, Android (system level), RHEL, Fedora Linux
-
-I worked with and dabbled in many other technologies, albeit to a lesser
-extent, or less recently than the ones listed above. It is generally not a
-problem for me to learn another skill/programming language/library/protocol
-to an advanced degree.
+I worked with and dabbled in many other technologies. It is generally not a
+problem for me to learn another skill/programming language/library/protocol to
+an advanced degree.
 
 
 PROFESSIONAL EXPERIENCE
 
-Software Engineer (remote)                  2014 - present
+Sr. Software Engineer (remote)              2018 - present
+Red Hat Software, base operating systems
+http://www.redhat.com/
+
+    Helping develop Linux kernel CI for both Red Hat-internal and external
+    contributions.
+
+
+Software Engineer (remote)                  2014 - 2018
 Red Hat Software, identity management
 http://www.redhat.com/
 
@@ -57,6 +51,9 @@ http://www.redhat.com/
     implement and contribute a few customer-requested features for FreeRADIUS,
     made several package releases.
 
+    Delivered multiple presentations at international open-source conferences
+    regarding the User Session Recording project.
+
 
 Part-time Software Engineer, Founder        2008 - present
 DIGImend project (not-for-profit)
@@ -65,7 +62,7 @@ https://github.com/DIGImend/
 
     Improve Linux support for generic graphics tablets. Support users.
 
-    Added support for 16 graphics tablet models to the Linux kernel.
+    Added support for over 40 graphics tablet models to the Linux kernel.
     Contributed tablet-related fixes to xf86-input-evdev and
     xf86-input-wacom drivers.
 
@@ -147,7 +144,8 @@ http://www.oktetlabs.ru/
 
 System Administrator                        2002 - 2006
 Avtomatika-Sever / Avtomatika RUS (industrial automation)
-http://www.avtomatika.info / http://www.avtomatikarus.com
+http://www.avtomatika.info
+https://web.archive.org/web/20040612074801/http://avtomatikarus.com/
 
     Maintain and improve company IT infrastructure. Tailor open source
     software to meet company needs. Develop in-house scripts and small
@@ -198,11 +196,10 @@ http://www.eltech.ru/kafedrs/iist/
 
 SOFT SKILLS
 
-Enjoy working in a team. Good ability to listen and understand, explain
-complex concepts using simple terms. Quick learning, able to dive quickly
-into unfamiliar areas. Fluent English reading and comprehension, legible
-writing. Able to maintain both technical and general topic conversations in
-English.
+Good ability to listen and understand, explain complex concepts using simple
+terms. Quick learning, able to dive quickly into unfamiliar areas. Fluent
+English reading and comprehension, quality writing. Looking forward to
+developing so-far basic Finnish skills.
 
 
 PERSONAL INTERESTS
@@ -210,12 +207,13 @@ PERSONAL INTERESTS
 Constantly program and hack computers and related devices since late childhood
 - started with Basic, C and Assembler on DOS and ZX Spectrum.  Participate in
 open-source projects. Study electronics and embedded software development as a
-hobby. Enjoy rock and related music. A fan of Terry Pratchett.
+hobby.
 
 
 FURTHER REFERENCE
 
 http://github.com/spbnick
-https://plus.google.com/u/0/+NikolaiKondrashov
+https://twitter.com/spbnick
+http://spbnick.github.io/
 http://www.linkedin.com/in/spbnick
 http://stackoverflow.com/users/1161045/spbnick
